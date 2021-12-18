@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881141505515",
+    "project_id": "tepar-af484",
+    "storage_bucket": "tepar-af484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881141505515:android:4e459dc14b25cbf6c58dae",
+        "android_client_info": {
+          "package_name": "com.uc.teparapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881141505515-otqtigtgojsl9d18ofd5e6b0454cfsc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uc.teparapps",
+            "certificate_hash": "7190050bfe7b2be054454ad4752b79818ead2ee2"
+          }
+        },
+        {
+          "client_id": "881141505515-2fiij7m3rspbmdq8uv2kob21bn6i36sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBcAAxCbgcvYFgxZc1V0rYYYzlgeosBMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881141505515-2fiij7m3rspbmdq8uv2kob21bn6i36sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
